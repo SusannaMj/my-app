@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 12px;
+}
+form {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  font-family: sans-serif;
+  text-align: center;
+  list-style: none;
+}
