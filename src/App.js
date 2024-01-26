@@ -19,7 +19,13 @@ function App() {
       <div>
         {form}
         <h1>
-          This project is <a href="/">open-sourced</a>
+          This project is{" "}
+          <a
+            href="https://profound-alfajores-e3a10e.netlify.app"
+            target="_blank"
+          >
+            open-sourced
+          </a>
         </h1>
       </div>
     );
@@ -38,7 +44,13 @@ function App() {
           </li>
         </ul>
         <h1>
-          This project is <a href="/">open-sourced</a>
+          This project is{" "}
+          <a
+            href="https://profound-alfajores-e3a10e.netlify.app"
+            target="_blank"
+          >
+            open-sourced
+          </a>
         </h1>
       </div>
     );
